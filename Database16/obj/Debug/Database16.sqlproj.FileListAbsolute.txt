@@ -1,0 +1,6 @@
+C:\Users\gayadav\source\repos\Database16\Database16\bin\Debug\Database16.dacpac
+C:\Users\gayadav\source\repos\Database16\Database16\bin\Debug\Database16.dll
+C:\Users\gayadav\source\repos\Database16\Database16\bin\Debug\Database16.pdb
+C:\Users\gayadav\source\repos\Database16\Database16\obj\Debug\Database16.sqlproj.AssemblyReference.cache
+C:\Users\gayadav\source\repos\Database16\Database16\obj\Debug\Database16.dll
+C:\Users\gayadav\source\repos\Database16\Database16\obj\Debug\Database16.pdb
